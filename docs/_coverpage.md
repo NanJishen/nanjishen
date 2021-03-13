@@ -1,11 +1,7 @@
-![logo](https://docsify.js.org/_media/icon.svg)
+![logo](https://gitee.com/nanjishen/Npic/raw/master/img/njs2.gif)
 
-# 极限 Book
+# Saying's Book
 
-> 我的小本本
+> For an energetic tomorrow. Go to bed
 
-* 为了方便、快捷
-* 编辑简单，并同步与 GitHub
-
-[极限搜索](https://ttti.cc)
-[开始](#quick-start)
+[Sayings](#一句)
