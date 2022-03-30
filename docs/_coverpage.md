@@ -1,4 +1,4 @@
-![logo](https://gitee.com/nanjishen/Npic/raw/master/img/njs2.gif)
+![logo](img/njs2.gif)
 
 # Saying's Book
 
